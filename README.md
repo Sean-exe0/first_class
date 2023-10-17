@@ -1,2 +1,3 @@
-# first_class
-This repo stores the program dictionary and i am creating with python language 
+##Python Dicttionay 
+
+* this program is all about building a dict with python and we would be using the following thio build our program. 
